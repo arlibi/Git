@@ -1,2 +1,2 @@
-# Epam-Git
+# Git
 Git practice
